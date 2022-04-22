@@ -15,3 +15,11 @@ El JSON de respuesta puede venir en el formato que estimes conveniente.
   - Script para el caso particular
 - Lenguaje: El que más te guste
 - Plazo de Entrega: Indefinido, iremos entrevistando a los que van terminando primero.
+
+``` bash
+# Install dependencies for server
+npm install
+
+# Run the server
+npm run dev
+
